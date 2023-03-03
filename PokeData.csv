@@ -1,0 +1,151 @@
+Index,Pokemon Name,Min CP,Max CP,Level,Candy,MoveName,MoveDMG,Evolution#,Type
+1,Bulbasaur,200,300,5,0,Absorb,50,0,Grass
+2,Ivysaur,300,400,5,0,Vine Whip,70,1,Grass
+3,Venusaur,400,500,5,0,Solar Beam,110,2,Grass
+4,Charmander,200,300,5,0,Ember,50,0,Fire
+5,Charmeleon,300,400,5,0,Flame Thrower,70,1,Fire
+6,Charizard,400,500,5,0,Fire Blast,110,2,Fire
+7,Squirtle,150,250,5,0,Bubble,50,0,Water
+8,Wartortle,250,350,5,0,Bubble Beam,70,1,Water
+9,Blastoise,350,450,5,0,Hydro Cannon,110,2,Water
+10,Caterpie,100,200,5,0,String Shot,50,0,Bug
+11,Metapod,150,250,5,0,Harden,0,1,Bug
+12,Butterfree,200,300,5,0,Scratch,50,2,Bug
+13,Weedle,100,200,5,0,String Shot,30,0,Bug
+14,Kakuna,100,200,5,0,Harden,0,1,Bug
+15,Beedrill,300,400,5,0,Scratch,50,2,Bug
+16,Pidgey,100,200,5,0,Tackle,50,0,Flying
+17,Pidgeotto,150,250,5,0,Gust,70,1,Flying
+18,Pidgeot,250,350,5,0,Fly,80,2,Flying
+19,Rattata,90,190,5,0,Scratch,50,0,Normal
+20,Raticate,180,280,5,0,Scratch,50,1,Normal
+21,Spearow,120,220,5,0,Peck,40,0,Flying
+22,Fearow,240,340,5,0,Peck,40,1,Flying
+23,Ekans,200,300,5,0,Constrict,60,0,Poison
+24,Arbok,300,400,5,0,Constrict,60,1,Poison
+25,Pikachu,180,280,5,0,Thunderbolt,60,0,Electric
+26,Raichu,250,350,5,0,Thundershock,70,1,Electric
+27,Sandshrew,120,220,5,0,Scratch,50,0,Electric
+28,Sand Slash,210,310,5,0,Scratch,50,1,Ground
+29,Nidoran,100,200,5,0,Glare,0,0,Normal
+30,Nidorina,200,300,5,0,Tackle,50,1,Normal
+31,Nidoqueen,300,400,5,0,Double Kick,70,2,Normal
+32,Nidorino,200,300,5,0,Tackle,50,0,Normal
+33,Nidoking,300,400,5,0,Headbutt,60,1,Normal
+34,Clefairy,100,200,5,0,Lick,40,0,Normal
+35,Clefable,150,250,5,0,Lick,40,1,Normal
+36,Vulpix,150,250,5,0,Ember,50,0,Fire
+37,Ninetales,250,350,5,0,Flame Thrower,90,1,Fire
+38,Jigglypuff,100,200,5,0,Sing,30,0,Normal
+39,Wigglytuff,200,300,5,0,Mirror Move,20,1,Normal
+40,Zubat,160,260,5,0,Bite,60,0,Dark
+41,Golbat,240,340,5,0,Sand Attack,50,1,Dark
+42,Oddish,100,200,5,0,Poison Powder,70,0,Grass
+43,Gloom,150,250,5,0,Sleep Powder,50,1,Grass
+44,Vileplume,200,300,5,0,Razor Leaf,90,2,Grass
+45,Paras,200,300,5,0,Poison Powder,40,0,Grass
+46,Parasect,250,350,5,0,Poison Sting,40,1,Grass
+47,Venonat,100,200,5,0,Poison Sting,60,0,Grass
+48,Venomoth,250,350,5,0,Quick Attack,50,1,Flying
+49,Diglett,150,250,5,0,Dig,50,0,Ground
+50,Dugtrio,200,300,5,0,Stomp,70,1,Ground
+51,Meowth,150,250,5,0,Scratch,50,0,Normal
+52,Persian,250,350,5,0,Fury Swipes,50,1,Normal
+53,Psyduck,200,300,5,0,Confusion,100,0,Water
+54,Golduck,300,400,5,0,Psychic,100,1,Water
+55,Mankey,100,200,5,0,Scratch,50,0,Fighting
+56,Primeape,200,300,5,0,Mega Punch,90,1,Fighting
+57,Growlithe,250,350,5,0,Ember,50,0,Fire
+58,Arcanine,400,500,5,0,Flame Thrower,80,1,Fire
+59,Poliwag,100,200,5,0,Bubble,50,0,Water
+60,Poliwhirl,150,250,5,0,Surf,100,1,Water
+61,Poliwrath,250,350,5,0,Surf,100,2,Water
+62,Abra,150,250,5,0,Teleport,10,0,Psychic
+63,Kadabra,250,350,5,0,Psybeam,80,1,Psychic
+64,Alakazam,350,450,5,0,Psychic,90,2,Psychic
+65,Machop,100,200,5,0,Mega Punch,70,0,Fighting
+66,Machoke,200,300,5,0,Mega Punch,70,1,Fighting
+67,Machamp,320,420,5,0,Mega Punch,70,2,Fighting
+68,Bellsprout,90,190,5,0,Stun Spore,40,0,Grass
+69,Weepinbell,180,280,5,0,Razor Leaf,80,1,Grass
+70,Victreebel,280,380,5,0,Razor Leaf,90,2,Grass
+71,Tentacool,80,180,5,0,Bubble,40,0,Water
+72,Tentacruel,250,350,5,0,Surf,80,1,Water
+73,Geodude,100,200,5,0,Tackle,50,0,Rock
+74,Graveler,200,300,5,0,Earthquake,60,1,Rock
+75,Golem,300,400,5,0,Roll-out,40,2,Rock
+76,Ponyta,160,260,5,0,Double Kick,40,0,Fire
+77,Rapidash,280,380,5,0,Fire Spin,110,1,Fire
+78,Slowpoke,100,200,5,0,Dream Eater,50,0,Water
+79,Slowbro,200,300,5,0,Psychic,100,1,Psychic
+80,Magnemite,200,300,5,0,Thunderbolt,80,0,Electric
+81,Magneton,250,350,5,0,Thunder,90,1,Electric
+82,Farfetchd,200,300,5,0,Tackle,50,0,Normal
+83,Doduo,200,300,5,0,Double Team,0,0,Normal
+84,Dodrio,250,350,5,0,Tackle,50,1,Normal
+85,Seel,120,220,5,0,Haze,50,0,Ice
+86,Dewgong,180,280,5,0,Ice Beam,70,1,Ice
+87,Grimer,200,300,5,0,Sludge,40,0,Poison
+88,Muk,300,400,5,0,Smog,80,1,Poison
+89,Shellder,100,200,5,0,Tackle,50,0,Water
+90,Cloyster,200,300,5,0,Slash,50,1,Water
+91,Gastly,280,380,5,0,Lick,50,0,Ghost
+92,Haunter,320,420,5,0,Shadow Ball,100,1,Ghost
+93,Gengar,180,280,5,0,Haunt,30,2,Ghost
+94,Onix,320,420,5,0,Rock Slide,30,0,Rock
+95,Drowzee,150,250,5,0,Psychic,90,0,Psychic
+96,Hypno,200,300,5,0,Psybeam,80,1,Psychic
+97,Krabby,80,180,5,0,Tackle,50,0,Water
+98,Kingler,220,320,5,0,Crabhammer,80,1,Water
+99,Voltorb,160,260,5,0,Self-Destruct,105,0,Electric
+100,Electrode,240,340,5,0,Self-Destruct,105,1,Electric
+101,Exeggcute,150,250,5,0,Tackle,50,0,Grass
+102,Exeggutor,250,350,5,0,Dig,60,1,Grass
+103,Cubone,100,200,5,0,Bone Club,60,0,Normal
+104,Marowak,200,300,5,0,Bonemerang,70,1,Normal
+105,Hitmonlee,250,350,5,0,Mega Kick,80,0,Fighting
+106,Hitmonchan,320,420,5,0,Mega Punch,80,0,Fighting
+107,Lickitung,100,200,5,0,Lick,50,0,Normal
+108,Koffing,150,250,5,0,Smog,60,0,Poison
+109,Weezing,200,300,5,0,Smog,60,1,Poison
+110,Rhyhorn,150,250,5,0,Stomp,80,0,Ground
+111,Rhydon,250,350,5,0,Strength,80,1,Ground
+112,Chansey,80,180,5,0,Tackle,50,0,Normal
+113,Tangela,100,200,5,0,Stun Spore,50,0,Grass
+114,Kangaskhan,150,250,5,0,Super Fang,80,0,Ground
+115,Horsea,100,200,5,0,Tackle,50,0,Water
+116,Seadra,150,250,5,0,Surf,80,1,Water
+117,Goldeen,180,280,5,0,Bubblebeam,80,0,Water
+118,Seaking,220,320,5,0,Surf,90,1,Water
+119,Staryu,80,180,5,0,Bubble,50,0,Water
+120,Starmie,160,260,5,0,Bubblebeam,80,1,Water
+121,Mr. Mime,200,300,5,0,Mimic,0,0,Normal
+122,Scyther,330,430,5,0,Swords Dance,50,0,Grass
+123,Jynx,120,220,5,0,Minimize,0,0,Normal
+124,Electabuzz,160,260,5,0,Thunder Punch,90,0,Electric
+125,Magmar,200,300,5,0,Fire Punch,90,0,Fire
+126,Pinsir,180,280,5,0,Fury Swipes,45,0,Bug
+127,Tauros,180,280,5,0,Double Kick,60,0,Normal
+128,Magikarp,60,160,5,0,Splash,0,0,Water
+129,Gyarados,300,400,5,0,Dragon Rage,100,1,Water
+130,Lapras,180,280,5,0,Surf,60,0,Water
+131,Ditto,100,200,5,0,Dream Eater,50,0,Normal
+132,Eevee,120,220,5,0,Double Team,0,0,Normal
+133,Vaporeon,200,300,5,0,Bubble Beam,40,0,Water
+134,Jolteon,280,380,5,0,Thunder Shock,65,0,Electric
+135,Flareon,330,430,5,0,Flamethrower,70,0,Fire
+136,Porygon,100,200,5,0,Drill Peck,50,0,Psychic
+137,Omanyte,140,240,5,0,Earthquake,80,0,Water
+138,Omastar,190,290,5,0,Tackle,50,1,Water
+139,Kabuto,170,270,5,0,Tackle,50,0,Ground
+140,Kabutops,220,320,5,0,Fissure,80,1,Ground
+141,Aerodactyl,290,390,5,0,Sky Attack,120,0,Flying
+142,Snorlax,120,220,5,0,Strength,80,0,Normal
+143,Articuno,190,290,5,0,Ice Beam,120,0,Ice
+144,Zapdos,250,350,5,0,Thunder,120,0,Electric
+145,Moltres,310,410,5,0,Fire Blast,120,0,Fire
+146,Dratini,90,190,5,0,Dragon Rage,60,0,Dragon
+147,Dragonair,200,300,5,0,Sky Attack,80,1,Dragon
+148,Dragonite,260,360,5,0,Dragon Rage,110,2,Dragon
+150,Mewtwo,200,300,5,0,Psychic,150,0,Psychic
+151,Mew,100,200,5,0,Psybeam,150,0,Psychic
