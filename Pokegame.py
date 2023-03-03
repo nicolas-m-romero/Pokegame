@@ -18,7 +18,7 @@ class Pokemon:
 rows = []
 poke_list = []
 
-with open(r'C:\Users\nicor\.vscode\PokeData.csv','r') as csvfile:
+with open(r'C:\Users\TEMP\.vscode\PokeData.csv','r') as csvfile: #USER SHOULD INPUT PUT THEIR OWN PATH TO CSV FILE TO RUN GAME WITHIN THEIR PYTHON IDE
     csvfile.readline()  #moves cursor to first line with just numbers
     poke_data = csv.reader(csvfile, delimiter=',')
     for row in poke_data:  #traverses all the rows of data
